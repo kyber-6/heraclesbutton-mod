@@ -10,7 +10,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/project/heracles-button",
-		"sources": "https://github.com/kyber-6/heraclesbutton-mod"
+		"sources": "https://github.com/kyber-6/heraclesbutton-mod",
+		"issues": "https://github.com/kyber-6/heraclesbutton-mod/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/heraclesbutton/icon.webp",
