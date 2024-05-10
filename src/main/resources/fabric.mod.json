@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "heraclesbutton",
+	"version": "${version}",
+	"name": "Heracles Button",
+	"description": "Access your Quests from your Inventory",
+	"authors": [
+		"kyber-6",
+		"Pixel Dream Studios"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/heracles-button",
+		"sources": "https://github.com/kyber-6/heraclesbutton-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/heraclesbutton/icon.webp",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"net.pixeldreamstudios.heraclesbutton.HeraclesButtonClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"heracles": ">=1.1.12"
+	}
+}
