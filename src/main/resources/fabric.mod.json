@@ -14,7 +14,7 @@
 		"issues": "https://github.com/kyber-6/heraclesbutton-mod/issues"
 	},
 	"license": "MIT",
-	"icon": "assets/heraclesbutton/icon.webp",
+	"icon": "assets/heraclesbutton/icon.png",
 	"environment": "client",
 	"entrypoints": {
 		"client": [
